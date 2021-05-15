@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Core Concepts": {
+    "message": "Основные Концепты",
+    "description": "The label for category Core Concepts in sidebar docs"
+  },
+  "sidebar.docs.category.Introduction": {
+    "message": "Введение",
+    "description": "The label for category Introduction in sidebar docs"
+  },
+  "sidebar.docs.category.Reference": {
+    "message": "Ссылки",
+    "description": "The label for category Reference in sidebar docs"
+  },
+  "sidebar.docs.category.Core": {
+    "message": "Ядро",
+    "description": "The label for category Core in sidebar docs"
+  },
+  "sidebar.docs.category.Libraries": {
+    "message": "Библиотеки",
+    "description": "The label for category Libraries in sidebar docs"
+  },
+  "sidebar.docs.category.Interfaces": {
+    "message": "Интерфейсы",
+    "description": "The label for category Interfaces in sidebar docs"
+  }
+}
