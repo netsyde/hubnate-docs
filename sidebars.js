@@ -14,29 +14,9 @@ module.exports = {
           'concepts/introduction/landing',
           'concepts/introduction/what-is-hubnate',
           'concepts/introduction/donate-user-guide',
+          'concepts/introduction/glossary',
           ]
         },        
-        // {
-        // type: 'category',
-        // label: 'V3 Overview',
-        // items: [
-        //   'concepts/V3-overview/faq',
-        //   'concepts/V3-overview/concentrated-liquidity',
-        //   'concepts/V3-overview/fees',
-        //   'concepts/V3-overview/range-orders',
-        //   'concepts/V3-overview/oracle',
-        //   'concepts/V3-overview/glossary',
-        //   ]
-        // },
-        // {
-        // type: 'category',
-        // label: 'Advanced Topics',
-        // items: [
-        //   'concepts/advanced/research',
-        //   'concepts/advanced/resources',
-        //   'concepts/advanced/integration-issues',
-        //   ]
-        // },
       ],
     },
     // {
