@@ -7,22 +7,34 @@ title: Donate User Guide
 
 ### 1. Connect to Hubnate
 
-Click on the Connect button located at the top of the site.
+Click on the `Connect` button located at the top of the site.
 
-### 2. Select a donation pool
+![Connect](./images/connect.png "Connect")
 
-Each pool has its own characteristics. Select a pool from the list and click on the Donate button.
+If you are using the mobile version, click on the `Connect` button located on the donation panel.
 
-### 3. Donate
+### 2. Making a donation
 
-Specify the number of tokens you want to donate. Please note that the cost of 1 chance token in different pools may differ. Click on the Approve button to allow you to spend your ERC-20 tokens. Then click on the Donate button to make a donation.
+Each pool has its own characteristics. Select a pool from the list below.
 
-### 4. Take the CT tokens
+Specify the number of tokens you want to donate. Please note that the cost of 1 chance token in different pools may differ. Click on the `Enable` button to allow you to spend your ERC-20 tokens. Next, click on the `Donate` button to make a donation.
 
-After the donation is distributed, you can get the chance-tokens. To do this, go to the Account tab in the Sended subsection. This tab displays all the donations that you have made. To get CT tokens for a donation, click on the Claim button next to the donation.
+![Donate](./images/donate.png "Donate")
+
+### 3. Take away the CT tokens
+
+After the donation is distributed, you can get the chance-tokens.
+To do this, go to the `Claim` tab. This tab displays the rewards that you receive for your donations.
+![Claim](./images/claim.png "Claim")
+
+If you have uncollected rewards, the `Claim` button will be highlighted with a purple indicator.
+![Indicator](./images/claim_lamp.png "Indicator")
+
+To get CT tokens, click on the `Claim` button.
 
 Please note that if you have a high chance of receiving a donation, your donation can be returned to you. In this case, you will not be able to get the chance tokens.
 
-### 5. Make sure that the chance has increased
+### 4. Make sure that the chance has increased
 
-Go back to the pool page and make sure that your chance of getting the next donation has increased.
+Go back to the `Information` page and make sure that your chance of getting the next donation has increased.
+![Stats](./images/stats.png "Pool info")

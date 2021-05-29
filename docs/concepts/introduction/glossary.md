@@ -27,3 +27,7 @@ CT-token - [**ERC20-token**](https://ethereum.org/en/developers/docs/standards/t
 Chainlink VRF provides cryptographically secure randomness for your blockchain-based applications.
 
 [**Learn more about Chainlink VRF**](https://chain.link/)
+
+## Oracle
+
+A blockchain oracle is a reliable data source that sends information to the blockchain for use by smart contracts.
